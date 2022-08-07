@@ -26,6 +26,3 @@ The training link for this app is in Youtube
 - Change Question Text Color (True False)
 - ...
 
-
-![MainActivity](https://github.com/omidMirrajei/MultipleChoiceQuiz/blob/master/cs_1.png)
-![QuizActivity](https://github.com/omidMirrajei/MultipleChoiceQuiz/blob/master/cs_2.png)
